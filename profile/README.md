@@ -1,5 +1,5 @@
 <div>
-    <img src="https://media.discordapp.net/attachments/853715980516982804/1061009497675530381/Icon-codify-bordered.png" min-width="100px" max-width="400px" width="100%" align="right">
+    <img src="https://media.discordapp.net/attachments/853715980516982804/1061009497675530381/Icon-codify-bordered.png" min-width="400px" max-width="400px" width="400px" align="right">
     <div>
     <h1>Codify Community 👾</h1>
         <p align="left" style="font-size: 17px"> 
