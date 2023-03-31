@@ -3,7 +3,7 @@
     <div>
     <h1>Codify Community 👾</h1>
         <p align="left" style="font-size: 17px"> 
-          A <strong>Comunidade Codify</strong> é um grupo de desenvolvedores que tem como objetivo auxiliar principalmente programadores iniciantes a ingressar no mundo da programação.
+          A <strong>Comunidade Codify</strong> é um grupo de desenvolvedores que tem como objetivo auxiliar principalmente programadores iniciantes a ingressar no mundo da programação.<br/>
 	  Nós, da Codify, apoiamos o uso de <strong>softwares de código aberto</strong> e continuaremos publicando projetos <strong>open source</strong> para ajudar e agregar conhecimento à nossa comunidade.
         </p>
     </div>
