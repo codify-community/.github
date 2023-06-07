@@ -1,5 +1,5 @@
 <div>
-   <a href="https://codifycommunity.com.br"><img src="https://media.discordapp.net/attachments/853715980516982804/1061009497675530381/Icon-codify-bordered.png" min-width="400px" max-width="400px" width="400px" align="right"></a>
+   <a href="https://codifycommunity.com.br"><img src="https://avatars.githubusercontent.com/u/75502663?s=200&v=4" align="right"></a>
     <div>
     <h1>Codify Community 👾</h1>
         <p align="left" style="font-size: 17px"> 
