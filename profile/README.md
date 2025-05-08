@@ -5,6 +5,6 @@ Nós, da <strong>Codify</strong>, apoiamos o uso de <strong>softwares de código
 
 <h3>🦄 Nossas comunidades</h3>
 
-[<kbd>![LinkedIn](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</kbd>](https://t.me/codifycommunity)
+[<kbd>![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</kbd>](https://www.linkedin.com/company/codify-community/)
 [<kbd>![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</kbd>](https://github.com/codify-community)
 [<kbd>![Discord](https://img.shields.io/badge/Discord-5662F6?style=for-the-badge&logo=discord&logoColor=white)</kbd>](https://discord.com/invite/Hh6tUDy)
