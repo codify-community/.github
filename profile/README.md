@@ -8,4 +8,4 @@ Nós, da <strong>Codify</strong>, apoiamos o uso de <strong>softwares de código
 [<kbd>![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</kbd>](https://www.linkedin.com/company/codify-community/)
 [<kbd>![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</kbd>](https://github.com/codify-community)
 
-[<kbd>![codify discord card](https://guild-cards.discloud.app/api/743482187365613641?buttonText=Entrar)](https://discord.com/invite/hU27wXZEns)
+[<kbd>![codify discord card](https://discord-guild-cards.shardweb.app/api/743482187365613641?buttonText=Entrar)](https://discord.com/invite/hU27wXZEns)
